@@ -1,3 +1,3 @@
 ## Check Out the Project on Vercel!
 
-### With [Vercel]([https://vercel.com](https://vercel.com/martinmashalov-gmailcom/svelte-final-social/2k9TaGEybKc4Ar9kHQz3VLiqYVQY))
+### With [Vercel]([vercel](https://vercel.com/martinmashalov-gmailcom/svelte-final-social/2k9TaGEybKc4Ar9kHQz3VLiqYVQY))
